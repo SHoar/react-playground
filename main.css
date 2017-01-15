@@ -1,0 +1,20 @@
+#app{
+	text-align: center;
+}
+h2,h4{
+	font-family: Arial;
+	line-height: 0.25;
+}
+button {
+	border-radius: 50%;
+  max-width: 20px;
+	margin: 0 auto;
+}
+.profile-box {
+	display: inline-flex;
+	flex-direction: column;
+
+	margin: 0 auto;
+	padding: 10px;
+	box-shadow: 5px 5px 5px 5px #ccc;
+}
